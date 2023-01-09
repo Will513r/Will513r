@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Will513r
+- 👋 Hi, I’m Will
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning react and node.js 
 - 💞️ I’m looking to build my portfolio and secure a job
