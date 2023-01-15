@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning react
+- 🔭 &nbsp; I’m currently learning Full-Stack web development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer programming and Youtube analitycs.
 - 💼 &nbsp; Front-end web developer.
