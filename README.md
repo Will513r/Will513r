@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; 
+<!-- - 🛢 &nbsp;  -->
 - 🔧 &nbsp;  Visual Studio code  | Git
 - 🖥 &nbsp;  Photoshop 
 
