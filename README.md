@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer programming and Youtube analitycs.
 - 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
