@@ -14,8 +14,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp;  jQuery
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery
+<!-- - 🛢 &nbsp;  React -->
 - 🔧 &nbsp;  Visual Studio code  | Git
 - 🖥 &nbsp;  Photoshop 
 
