@@ -9,7 +9,7 @@
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
-- ☕ &nbsp; I belive cold brew coffee > hot coffee. 
+
 
 <h3>🛠 Tech Stack</h3>
 
