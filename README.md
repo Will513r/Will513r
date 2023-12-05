@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Full-Stack web development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer programming and Youtube analitycs.
+- 🎓 &nbsp; Studying Computer programming, Spanish, and day trading.
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | React
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | React | Java
 - 🛢 &nbsp;  Node.JS | express.js
 - 🔧 &nbsp;  Visual Studio code | Git
 <!-- - 🖥 &nbsp;  Photoshop  -->
