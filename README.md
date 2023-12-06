@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Full-Stack web development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer programming, Spanish, and day trading.
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Fullstack web developement.
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 
