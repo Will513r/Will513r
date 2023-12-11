@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer programming, Spanish, and day trading.
 - 💼 &nbsp; Fullstack web developement.
