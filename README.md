@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | React | Java
+- 🌐 &nbsp; HTML/CSS | JavaScript | Bootstrap | jQuery | React | Java
 - 🛢 &nbsp;  Node.JS | express.js
-- 🔧 &nbsp;  Visual Studio code | Git
+- 🔧 &nbsp;  Visual Studio code | Git | Chat GTP
 <!-- - 🖥 &nbsp;  Photoshop  -->
 
 <br>
