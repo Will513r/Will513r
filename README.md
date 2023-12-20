@@ -8,16 +8,11 @@
 - 💼 &nbsp; Fullstack web developement.
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
+<br>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats-two.vercel.app?user=Will513r&theme=highcontrast"/></a>
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML/CSS | JavaScript | Bootstrap | jQuery | React | Java
-- 🛢 &nbsp;  Node.JS | express.js
-- 🔧 &nbsp;  Visual Studio code | Git | Chat GTP
-<!-- - 🖥 &nbsp;  Photoshop  -->
-
+</p>  
 <br>
 
 
