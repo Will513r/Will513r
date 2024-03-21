@@ -9,10 +9,10 @@
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 <br>
-<p align="center">
+<!--<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats-two.vercel.app?user=Will513r&theme=highcontrast"/></a>
 
-</p>  
+</p>  -->
 <br>
 
 
