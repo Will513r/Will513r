@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Java, Spanish, and day trading.
+- 🎓 &nbsp; Studying Java, React, and Next.js.
 - 💼 &nbsp; Fullstack web developement.
 - 🌱 &nbsp; Enthusiast in creating multiple streams of income .
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
