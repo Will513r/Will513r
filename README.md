@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Java, React, and Next.js.
 - 💼 &nbsp; Fullstack web developement.
-- 🌱 &nbsp; Enthusiast in creating multiple streams of income .
+- 🌱 &nbsp; Enthusiast in creating YouTube videos.
 - ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 <br>
 <!--<p align="center">
