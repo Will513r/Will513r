@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Java, React, and Next.js.
-- 💼 &nbsp; Fullstack web developement.
-- 🌱 &nbsp; Enthusiast in creating YouTube videos.
-- ✍️ &nbsp; Watching Horror movies and trying out latest trends as side hustles.
+-  &nbsp; Exploring new technologies, developing software solutions and quick hacks.
+-  &nbsp; Studying Java, React, and Next.js.
+-  &nbsp; Fullstack web developement.
+-  &nbsp; Enthusiast in creating YouTube videos.
+-  &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 <br>
-<!--<p align="center">
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats-two.vercel.app?user=Will513r&theme=highcontrast"/></a>
 
-</p>  -->
+</p>  
 <br>
 
 
