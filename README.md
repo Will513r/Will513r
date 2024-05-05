@@ -9,11 +9,11 @@
 -  &nbsp; Enthusiast in creating YouTube videos.
 -  &nbsp; Watching Horror movies and trying out latest trends as side hustles.
 <br>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats-two.vercel.app?user=Will513r&theme=highcontrast"/></a>
+<!-- <p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Will513r&theme=dark)](https://git.io/streak-stats)
 
 </p>  
-<br>
+<br> -->
 
 
 
