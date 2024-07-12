@@ -22,12 +22,5 @@
 </ul>
 
  
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/thetechdad87" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="mailto:thetechdad87@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://www.youtube.com/channel/UCjV0wdH89M-Cq7yO2v2rIvw/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a> 
-</p>
 
 
