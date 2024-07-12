@@ -10,7 +10,6 @@
 <ul>
 <li>Front-end Development: Building responsive and interactive user interfaces using React, JavaScript, HTML, and CSS.</li>
 <li>Back-end Development: Developing robust server-side applications with Node.js and Java.</li>
-<li>TypeScript: Writing type-safe code to enhance reliability and maintainability.</li>
 <li>Mentorship: Teaching new developers on YouTube to help them avoid the mistakes I encountered during my learning journey.</li>
  </ul>
 <h2>Skills</h2>
