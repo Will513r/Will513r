@@ -16,8 +16,8 @@
 <h2>Skills</h2>
 <ul>
 <li>Languages: JavaScript, TypeScript, Java</li>
-<li>Frameworks/Libraries: React.js, Node.js</li>
-<li>Web Development: HTML5, CSS3, RESTful APIs</li>
+<li>Frameworks/Libraries: React.js, Node.js, Vue.js</li>
+<li>Web Development: HTML5, CSS3, RESTful APIs, Tailwind, Bootstrap</li>
 <li>Tools: Git, Webpack, and NPM</li>
 </ul>
 
